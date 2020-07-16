@@ -1,2 +1,2 @@
 # new-website
-website for alzheimers project 
+ https://mchandrakasan.github.io/alzheimers-detection/
